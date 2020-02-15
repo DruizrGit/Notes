@@ -1,1 +1,1 @@
-# Notes
+This repository is for a collection of PDF notes that I have written over the years. They are largely concentrated in Mathematics, Physics and Computer Science. Some of these will continue to be updated as they are not all yet complete or polished.
